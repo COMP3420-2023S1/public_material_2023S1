@@ -1,0 +1,17 @@
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - ipykernel
+  - tensorflow
+  - matplotlib
+  - nltk
+  - numpy
+  - pandas
+  - scikit-learn
+  - scikit-image
+  - scipy
+  - opencv
+  - pillow
+
+
