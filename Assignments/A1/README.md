@@ -19,7 +19,7 @@ This assignment is completed **both** using GitHub Classroom and iLearn.
 1. Follow this invitation link and accept the invitation: https://classroom.github.com/a/ktIExbUP
 2. The link may ask you to sign in to GitHub (if you haven't signed in earlier). If you don't have a GitHub account, you will need to register.
 3. Once you have logged in with GitHub, you may need to select your email address to associate your GitHub account with your email address (if you haven't done it in a previous COMP3420 activity). If you can't find your email address, please skip this step and contact diego.molla-aliod@mq.edu.au so that he can do the association manually.
-4. Wait a minute or two, and refresh the browser until it indicates that your assignment repository has been created. Your repository is private to you, and you have administration privileges. Only you and the lecture will have access to it. The repository will be listed under the list of repositories belonging to this offering of COMP3420: https://github.com/orgs/COMP3420-2023S1/repositories
+4. Wait a minute or two, and refresh the browser until it indicates that your assignment repository has been created. Your repository is private to you. Only you and the lecture will have access to it. The repository will be listed under the list of repositories belonging to this offering of COMP3420: https://github.com/orgs/COMP3420-2023S1/repositories
 5. Your assignment repository will include starter code that you can use for the exercises of this assignment. Clone your repository into a folder in your computer.
 6. Use the template that is part of the starter code, file `a1.py`.
 7. Commit your changes and push them to the repository. Each time you push to the repository, the tests included in the file `a1_test.py` will run, and you can check the result of the tests a few minutes later (be patient, the tests take a few minutes to complete).
@@ -30,7 +30,7 @@ The result of the unittests in `a1_test.py` is for your feedback. After you subm
 
 ## iLearn
 
-Once your assignment is ready for submission, submit the contents of `a1.test` in iLearn. This will signal us that your assignmen is ready for assessment. 
+Once your assignment is ready for submission, submit the contents of `a1.py` in iLearn. This will signal us that your assignmen is ready for assessment. 
 
 We will run two types of automated tests on your submission to iLearn: 
 
